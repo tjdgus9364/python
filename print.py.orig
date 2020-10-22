@@ -1,0 +1,9 @@
+# print builtin function
+
+print("Hello World")
+print("Hello Python World")
+<<<<<<< HEAD
+print("Hotfix branch")
+=======
+print("Hotfix branch 2")
+>>>>>>> hotfix
